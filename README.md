@@ -7,8 +7,8 @@
 <img src="https://komarev.com/ghpvc/?username=Upasf05&color=brightgreen" alt="watching_count" />
  </p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ovindu Wijethunge </h1>
-<h3 align="center">Machine Learning Engineer | Data Scientist </h3>
+<h1 align="center">¡Hola! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Mi nombre es Patricio Suarez. </h1>
+<h3 align="center">Estudio desarrollo de aplicaciones. </h3>
 <p align="center">
  <a href = "mailto: fcrams2003@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
@@ -18,17 +18,17 @@
 
 <p align="center">
   <em>
-    Buenas, soy Patricio Suarez, de 3er Semestre del Instituo Superior Compu Sur con Condición de Universitario
+    Buenas, soy Patricio Suarez, de 3er Semestre del Instituo Superior Universitario ITECSUR.
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">"La vida es por alguna razón, para pensar y buscar.”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
+✔ Se me puede llamar de cualquier forma 😊 <br>
 ✔ I’m currently Developing a youtube spam comments filtering tool for **Sinhala language**<br>
 ✔ I’m currently learning about **deep learning**🥰<br>
 ✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
@@ -46,7 +46,20 @@
 
   <hr>
   <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+    
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Herramientas que manejo***
+<p align="left">
+  
+  <code><img height="50" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></code>
+  <code><img height="50" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"></code>
+  <code><img height="50" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"></code>
+  <code><img height="50" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></code>
+  <code><img height="50" src="https://img.shields.io/badge/freebsd-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white"></code>
+  <code><img height="50" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></code>
+
+  <hr>
+  <p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Lo que hago</b></i></p>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Upasf05&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Upasf05&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
@@ -55,5 +68,5 @@
 <hr>
 
 
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Logros alcanzados</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=Upasf05&theme=juicyfresh&no-bg=true" />
