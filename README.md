@@ -7,8 +7,8 @@
 <img src="https://komarev.com/ghpvc/?username=Upasf05&color=brightgreen" alt="watching_count" />
  </p>
 
-<h1 align="center">¡Hola! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Mi nombre es Patricio Suarez. </h1>
-<h3 align="center">Estudio desarrollo de aplicaciones. </h3>
+<h1 align="center">¡Hola! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Mi nombre es Patricio Suárez. </h1>
+<h3 align="center">Creando algo nuevo todos los días. </h3>
 <p align="center">
  <a href = "mailto: fcrams2003@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
@@ -18,7 +18,7 @@
 
 <p align="center">
   <em>
-    Buenas, soy Patricio Suarez, de 3er Semestre del Instituo Superior Universitario ITECSUR.
+    Buenas, soy Patricio Suárez, de 3er Semestre de Desarollo de Software el Instituo Superior Universitario ITECSUR.
   </em> 
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">"La vida es por alguna razón, para pensar y buscar.”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
@@ -28,12 +28,12 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ Se me puede llamar de cualquier forma 😊 <br>
-✔ I’m currently Developing a youtube spam comments filtering tool for **Sinhala language**<br>
-✔ I’m currently learning about **deep learning**🥰<br>
-✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
-✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
-✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
+✔ Se me puede llamar de cualquier forma pero preferiría por mi nombre 😊 <br>
+✔ Siempre buscando cosas nuevas 😆<br>
+✔ Actualmente aprendiendo desarrollo Android 🥰<br>
+✔ Disponible para ayudar cuando haya la oportunidad 😁<br>
+✔ Se me puede preguntar sobre cualquier cosa 😉<br>
+✔ Espero en el futuro desarrollar una gran app o juego que guste a los demás 😎<br><br><br><br>
  
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Lenguajes de programación***
@@ -47,7 +47,7 @@
   <hr>
   <p align="center">
     
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Herramientas que manejo***
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Herramientas que manejo***
 <p align="left">
   
   <code><img height="50" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></code>
