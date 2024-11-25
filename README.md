@@ -1,5 +1,3 @@
-<p align="center">
-  
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=Upasf05&color=brightgreen" alt="watching_count" />
  </p>
